@@ -17,7 +17,7 @@ yarn add  react-dnd react-dnd-html5-backend
 
 The second package will allow React DnD [the HTML5 drag and drop API](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Drag_and_drop) under the hood. You may choose to use a third-party backend instead, such as [the touch backend](https://github.com/yahoo/react-dnd-touch-backend).
 
-## What's It Look Like?
+## What It Looks Like?
 
 ```jsx
 // Let's make <Card text='Write the docs' /> draggable!
